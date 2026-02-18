@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AK1715/my-repo.git"
+    "url": "git+https://github.com/AK1715/gitbot/my-repo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/AK1715/my-repo/issues"
+    "url": "https://github.com/AK1715/gitbot/my-repo/issues"
   },
-  "homepage": "https://github.com/AK1715/my-repo#readme",
+  "homepage": "https://github.com/AK1715/gitbot/my-repo#readme",
   "dependencies": {
     "jsonfile": "^6.2.0",
     "moment": "^2.30.1",
